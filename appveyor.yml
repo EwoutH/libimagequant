@@ -5,4 +5,7 @@ install:
   - cmake %CD%
   
 build:
-  project: libimagequant.sln
+  project: libimagequant-c.sln
+
+artifacts:
+ - path: Release\libimagequant-c.lib
