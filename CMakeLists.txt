@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 
-project(imagequant C)
+project(imagequant-c)
 
 option(BUILD_SHARED_LIBS "Build shared libraries" OFF)
 option(BUILD_WITH_SSE "Use SSE" ON)
