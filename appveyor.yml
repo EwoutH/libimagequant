@@ -1,3 +1,8 @@
+configuration: Release
+
 install:
   - cmake --version
   - cmake %CD%
+  
+build:
+  project: libimagequant.sln
