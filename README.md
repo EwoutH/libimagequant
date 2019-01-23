@@ -1,4 +1,4 @@
-# libimagequant—Image Quantization Library
+# libimagequant—Image Quantization Library [![Build Status](https://ci.appveyor.com/api/projects/status/github/ImageOptim/libimagequant?branch=master&svg=true)](https://ci.appveyor.com/project/ImageOptim/libimagequant)
 
 Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images.
 It's powering [pngquant2](https://pngquant.org).
