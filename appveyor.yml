@@ -1,1 +1,5 @@
-
+install:
+  - mkdir cmake_build
+  - cmake --version
+  - cd cmake_build
+  - cmake
